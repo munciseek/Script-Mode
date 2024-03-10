@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/munciseek/Script/main/Script?token=GHSAT0AAAAAACO7SXSN3WQYGLS5HU2FUKMCZPNHS3Q
+loadstring(game:HttpGet("https://raw.githubusercontent.com/munciseek/Script/main/Script?token=GHSAT0AAAAAACO7SXSN3WQYGLS5HU2FUKMCZPNHS3Q"))()
